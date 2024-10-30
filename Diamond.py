@@ -1,4 +1,4 @@
-# A python script that requests the user to enter number of rows to draw a diamond(palindrome)
+# A python script that requests the user to enter number of rows to display a diamond(palindrome)
 
 rows = int(input("Enter number of rows: "))
 
